@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">Full-Stack Developer | AI Enthusiast | DRDO Intern | Merit Scholar at MAIT Delhi</p>
 
@@ -51,11 +47,6 @@
 
 ---
 
-📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" />
-</p>
 
 ---
 
