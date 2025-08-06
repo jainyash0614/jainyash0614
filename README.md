@@ -53,7 +53,7 @@
 📫 **Contact Me**
 
 - 📧 Email: jainyash0614@gmail.com  
-- 📎 Resume: [Resume PDF](https://drive.google.com/file/d/18Wglxyx4Kj_tZ5kFaAGZ6MXtMUzcgXkc/view?usp=sharing)  
+- 📎 Resume: [Resume PDF](https://drive.google.com/file/d/1D-pbFRcsPBxVgWK06UEDnKMVy3wid5HA/view?usp=sharing)  
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yash-jain-067ba2285/)
 
 ---
