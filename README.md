@@ -55,7 +55,7 @@
 - 📧 Email: jainyash0614@gmail.com  
 - 📎 Resume: [Resume PDF](https://drive.google.com/file/d/1G9Copk7ZnC2T8iISI7IpKPj_HUDpzHrI/view?usp=sharing)  
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yash-jain-067ba2285/)
-- 🌐 Portfolio Website: https://yashjain0614.vercel.app/
+
 
 ---
 
